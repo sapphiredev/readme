@@ -1,0 +1,43 @@
+{
+	"name": "readme",
+	"version": "1.0.0",
+	"author": "@sapphire",
+	"license": "MIT",
+	"private": true,
+	"devDependencies": {
+		"@commitlint/cli": "^12.0.1",
+		"@commitlint/config-conventional": "^12.0.1",
+		"@mdx-js/mdx": "^1.6.22",
+		"@sapphire/prettier-config": "^1.0.7",
+		"cz-conventional-changelog": "^3.3.0",
+		"husky": "^5.1.1",
+		"prettier": "^2.2.1",
+		"pretty-quick": "^3.1.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sapphire-project/readme.git"
+	},
+	"engines": {
+		"node": ">=12",
+		"npm": ">=6"
+	},
+	"keywords": [
+		"Sapphire",
+		"Readme"
+	],
+	"bugs": {
+		"url": "https://github.com/sapphire-project/readme/issues"
+	},
+	"commitlint": {
+		"extends": [
+			"@commitlint/config-conventional"
+		]
+	},
+	"config": {
+		"commitizen": {
+			"path": "./node_modules/cz-conventional-changelog"
+		}
+	},
+	"prettier": "@sapphire/prettier-config"
+}
