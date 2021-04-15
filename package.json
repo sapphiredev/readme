@@ -16,7 +16,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/sapphire-project/readme.git"
+		"url": "git+https://github.com/sapphire-community/readme.git"
 	},
 	"engines": {
 		"node": ">=12",
@@ -27,7 +27,7 @@
 		"Readme"
 	],
 	"bugs": {
-		"url": "https://github.com/sapphire-project/readme/issues"
+		"url": "https://github.com/sapphire-community/readme/issues"
 	},
 	"commitlint": {
 		"extends": [
