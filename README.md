@@ -6,7 +6,7 @@
 
 **Common documents for all Sapphire Community repositories**
 
-[![GitHub](https://img.shields.io/github/license/sapphire-community/readme)](https://github.com/sapphire-community/readme/blob/main/LICENSE.md)
+[![GitHub](https://img.shields.io/github/license/sapphiredev/readme)](https://github.com/sapphiredev/readme/blob/main/LICENSE.md)
 
 </div>
 
