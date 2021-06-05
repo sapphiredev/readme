@@ -381,10 +381,10 @@
   resolved "https://registry.yarnpkg.com/@mdx-js/util/-/util-1.6.22.tgz#219dfd89ae5b97a8801f015323ffa4b62f45718b"
   integrity sha512-H1rQc1ZOHANWBvPcW+JpGwr+juXSxM8Q8YCkm3GhZd8REu1fHR3z99CErO1p9pkcfcxZnMdIZdIsXkOHY0NilA==
 
-"@sapphire/prettier-config@^1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@sapphire/prettier-config/-/prettier-config-1.1.1.tgz#3b0ab65ef303fcac26022dfc90ec40e1128f20f7"
-  integrity sha512-mBQ6j+NjMHU+o4tqWQAaOFBhGU4ztP0EG/58cuwY0Gc19jvCgYR8fZv20fFdMC3MEfFMPQJCtipaf/Qo59UQOA==
+"@sapphire/prettier-config@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@sapphire/prettier-config/-/prettier-config-1.1.2.tgz#e24bfe85585722d8057a52ef672be20a8f11ab1c"
+  integrity sha512-YfwXWUM5wituojLa8WY2WA12rDrDgxCyBmgCsEOIThperWMv8deOFu1UubxivTh4PTdhkE/V82H+hf8dqmmgQw==
   dependencies:
     prettier "2.x"
 
@@ -1783,10 +1783,15 @@ picomatch@^2.2.3:
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.2.3.tgz#465547f359ccc206d3c48e46a1bcb89bf7ee619d"
   integrity sha512-KpELjfwcCDUb9PeigTs2mBJzXUPzAuP2oPcA989He8Rte0+YUAjw1JVedDhuTKPkHjSYzMN3npC9luThGYEKdg==
 
-prettier@2.x, prettier@^2.3.0:
+prettier@2.x:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.0.tgz#b6a5bf1284026ae640f17f7ff5658a7567fc0d18"
   integrity sha512-kXtO4s0Lz/DW/IJ9QdWhAf7/NmPWQXkFr/r/WkR3vyI+0v8amTDxiaQSLzs8NBlytfLWX/7uQUMIW677yLKl4w==
+
+prettier@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.3.1.tgz#76903c3f8c4449bc9ac597acefa24dc5ad4cbea6"
+  integrity sha512-p+vNbgpLjif/+D+DwAZAbndtRrR0md0MwfmOVN9N+2RgyACMT+7tfaRnT+WDPkqnuVwleyuBIG2XBxKDme3hPA==
 
 pretty-quick@^3.1.0:
   version "3.1.0"
