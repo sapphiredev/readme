@@ -19,9 +19,12 @@
 - name: 'Bug: Unverified'
   description: Issues that report unverified bugs. Pending for inspection.
   color: f9d0c4
-- name: 'Event: Hacktoberfest'
+- name: 'Hacktoberfest'
   description: Issues and PRs related to Hacktoberfest.
-  color: FF4500
+  color: EE4700
+- name: 'hacktoberfest-accepted'
+  description: Issues and PRs related to Hacktoberfest.
+  color: EE4700
 - name: 'Meta: Bike-Shedding'
   description: Issues and PRs that nit pick
   color: f9253a
