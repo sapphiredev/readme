@@ -22,6 +22,10 @@
 			{
 				"matchPackagePatterns": ["@sapphire"],
 				"groupName": "Sapphire Dependencies"
+			},
+			{
+				"matchDepTypes": ["engines"],
+				"enabled": false
 			}
 		]
 	}
