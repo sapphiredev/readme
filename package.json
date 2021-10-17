@@ -24,8 +24,8 @@
 		"url": "git+https://github.com/sapphiredev/readme.git"
 	},
 	"engines": {
-		"node": ">=v14.18.0",
-		"npm": ">=7.24.1"
+		"node": ">=v14.0.0",
+		"npm": ">=7.0.0"
 	},
 	"keywords": [
 		"Sapphire",
