@@ -174,9 +174,9 @@
     tslib "^2"
 
 "@sapphire/prettier-config@^1.1.6":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@sapphire/prettier-config/-/prettier-config-1.2.2.tgz#1a8df4f2b6cc2c8c080c7594aa9b602c30029b5e"
-  integrity sha512-H5pkvYRfF/XRo2gbCnkU70/Meshyl5bMMzoWHJ9lcvKatrxuBxIZiEPxIP68ArdEOeQJkPYU3O/IFM7s93tasQ==
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@sapphire/prettier-config/-/prettier-config-1.2.3.tgz#ef95bc76119bc96630e7ef659d1d392656cdc7dc"
+  integrity sha512-Nf36z3eJbqy7Ilvehjd/A/TNgqsHYHDzd37/qEMjK0UkolWKBl/KiL8b/ylsoMm4huD7aM7+30y2AQdPu2qf6g==
   dependencies:
     prettier "^2.4.1"
 
@@ -841,9 +841,9 @@ human-signals@^2.1.0:
   integrity sha512-B4FFZ6q/T2jhhksgkbEW3HBvWIfDW85snkQgawt07S7J5QXTk6BkNV+0yAeZrM5QpMAdYlocGoljn0sJ/WQkFw==
 
 husky@^7.0.2:
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/husky/-/husky-7.0.2.tgz#21900da0f30199acca43a46c043c4ad84ae88dff"
-  integrity sha512-8yKEWNX4z2YsofXAMT7KvA1g8p+GxtB1ffV8XtpAEGuXNAbCV5wdNKH+qTpw8SM9fh4aMPDR+yQuKfgnreyZlg==
+  version "7.0.4"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-7.0.4.tgz#242048245dc49c8fb1bf0cc7cfb98dd722531535"
+  integrity sha512-vbaCKN2QLtP/vD4yvs6iz6hBEo6wkSzs8HpRah1Z6aGmF2KW5PdYuAd7uX5a+OyBZHBhd+TFLqgjUgytQr4RvQ==
 
 iconv-lite@^0.4.24:
   version "0.4.24"
