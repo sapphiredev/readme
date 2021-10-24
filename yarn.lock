@@ -173,7 +173,7 @@
     ts-node "^9"
     tslib "^2"
 
-"@sapphire/prettier-config@^1.1.6":
+"@sapphire/prettier-config@^1.2.3":
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/@sapphire/prettier-config/-/prettier-config-1.2.3.tgz#ef95bc76119bc96630e7ef659d1d392656cdc7dc"
   integrity sha512-Nf36z3eJbqy7Ilvehjd/A/TNgqsHYHDzd37/qEMjK0UkolWKBl/KiL8b/ylsoMm4huD7aM7+30y2AQdPu2qf6g==
