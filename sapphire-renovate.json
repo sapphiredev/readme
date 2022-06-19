@@ -3,6 +3,7 @@
 	"extends": ["config:base", "helpers:pinGitHubActionDigests", "group:allNonMajor"],
 	"labels": ["Meta: Dependencies"],
 	"schedule": ["before 12pm on Sunday"],
+	"cloneSubmodules": true,
 	"npm": {
 		"rangeStrategy": "bump",
 		"packageRules": [
