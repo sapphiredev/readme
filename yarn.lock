@@ -1882,7 +1882,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^2.5.1, prettier@npm:^2.6.1":
+"prettier@npm:^2.6.1":
   version: 2.6.2
   resolution: "prettier@npm:2.6.2"
   bin:
@@ -1891,7 +1891,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pretty-quick@npm:^3.1.2":
+"prettier@npm:^2.7.1":
+  version: 2.7.1
+  resolution: "prettier@npm:2.7.1"
+  bin:
+    prettier: bin-prettier.js
+  checksum: 55a4409182260866ab31284d929b3cb961e5fdb91fe0d2e099dac92eaecec890f36e524b4c19e6ceae839c99c6d7195817579cdffc8e2c80da0cb794463a748b
+  languageName: node
+  linkType: hard
+
+"pretty-quick@npm:^3.1.3":
   version: 3.1.3
   resolution: "pretty-quick@npm:3.1.3"
   dependencies:
@@ -1983,8 +1992,8 @@ __metadata:
     "@sapphire/prettier-config": ^1.2.7
     cz-conventional-changelog: ^3.3.0
     husky: ^7.0.4
-    prettier: ^2.5.1
-    pretty-quick: ^3.1.2
+    prettier: ^2.7.1
+    pretty-quick: ^3.1.3
   languageName: unknown
   linkType: soft
 
@@ -2484,7 +2493,7 @@ __metadata:
 
 "typescript@patch:typescript@^4.4.3#~builtin<compat/typescript>":
   version: 4.6.3
-  resolution: "typescript@patch:typescript@npm%3A4.6.3#~builtin<compat/typescript>::version=4.6.3&hash=bda367"
+  resolution: "typescript@patch:typescript@npm%3A4.6.3#~builtin<compat/typescript>::version=4.6.3&hash=f456af"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
