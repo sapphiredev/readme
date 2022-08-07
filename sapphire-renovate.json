@@ -1,7 +1,7 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"extends": ["config:base", "helpers:pinGitHubActionDigests", "group:allNonMajor"],
-	"labels": ["Meta: Dependencies"],
+	"labels": ["dependencies"],
 	"schedule": ["before 12pm on Sunday"],
 	"cloneSubmodules": true,
 	"npm": {
