@@ -4,6 +4,9 @@
 	"labels": ["dependencies"],
 	"schedule": ["before 12pm on Sunday"],
 	"cloneSubmodules": true,
+	"github-actions": {
+		"enabled": false
+	},
 	"npm": {
 		"rangeStrategy": "bump",
 		"packageRules": [
