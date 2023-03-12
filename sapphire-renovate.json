@@ -1,7 +1,7 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"extends": ["config:base", "group:allNonMajor"],
-	"labels": ["Meta: Dependencies"],
+	"labels": ["dependencies"],
 	"schedule": ["before 12pm on Sunday"],
 	"cloneSubmodules": true,
 	"github-actions": {
@@ -31,12 +31,6 @@
 			{
 				"matchPackagePatterns": ["@types/node-fetch"],
 				"allowedVersions": "^2",
-				"automerge": true,
-				"platformAutomerge": true
-			},
-			{
-				"matchPackagePatterns": ["@sapphire"],
-				"groupName": "Sapphire Dependencies",
 				"automerge": true,
 				"platformAutomerge": true
 			},
