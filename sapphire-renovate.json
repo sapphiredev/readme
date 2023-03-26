@@ -8,6 +8,7 @@
 		"enabled": false
 	},
 	"npm": {
+		"postUpdateOptions": ["yarnDedupeHighest"],
 		"rangeStrategy": "bump",
 		"packageRules": [
 			{
