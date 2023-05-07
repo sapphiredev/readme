@@ -5,8 +5,8 @@
 	"license": "MIT",
 	"private": true,
 	"devDependencies": {
-		"@commitlint/cli": "^17.6.1",
-		"@commitlint/config-conventional": "^17.6.1",
+		"@commitlint/cli": "^17.6.3",
+		"@commitlint/config-conventional": "^17.6.3",
 		"@sapphire/prettier-config": "^1.4.5",
 		"cz-conventional-changelog": "^3.3.0",
 		"husky": "^8.0.3",
@@ -47,5 +47,5 @@
 		}
 	},
 	"prettier": "@sapphire/prettier-config",
-	"packageManager": "yarn@3.5.0"
+	"packageManager": "yarn@3.5.1"
 }
