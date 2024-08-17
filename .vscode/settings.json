@@ -1,9 +1,7 @@
 {
-	"eslint.validate": ["typescript"],
-	"editor.tabSize": 4,
-	"editor.useTabStops": true,
-	"editor.insertSpaces": false,
-	"editor.detectIndentation": false,
 	"files.eol": "\n",
-	"deno.enable": false
+	"sonarlint.connectedMode.project": {
+		"connectionId": "https-sonarqube-sapphirejs-dev",
+		"projectKey": "sapphiredev_readme_9fd6c478-a0d9-4835-8623-8c425aa151c4"
+	}
 }
